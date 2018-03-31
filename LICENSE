@@ -1,29 +1,29 @@
-BSD 3-Clause License
+BSD Licence 3 Clauses
 
-Copyright (c) 2018, SplatCreator
-All rights reserved.
+Droit d'auteur (c) 2017, Splatter Splatep.
+Tous les droits sont réservés.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+Redistribution et utilisation sous forme source et binaire, avec ou sans
+modification, sont autorisés à condition que les conditions suivantes soient remplies:
 
-* Redistributions of source code must retain the above copyright notice, this
-  list of conditions and the following disclaimer.
+* Les redistributions du code source doivent conserver l'avis de copyright ci-dessus, ceci
+  liste des conditions et l'avertissement suivant.
 
-* Redistributions in binary form must reproduce the above copyright notice,
-  this list of conditions and the following disclaimer in the documentation
-  and/or other materials provided with the distribution.
+* Les redistributions sous forme binaire doivent reproduire l'avis de copyright ci-dessus,
+  cette liste de conditions et l'avertissement suivant dans la documentation
+  et / ou d'autres matériaux fournis avec la distribution.
 
-* Neither the name of the copyright holder nor the names of its
-  contributors may be used to endorse or promote products derived from
-  this software without specific prior written permission.
+* Ni le nom du titulaire du droit d'auteur ni les noms de ses
+  les contributeurs peuvent être utilisés pour approuver ou promouvoir des produits dérivés de
+  ce logiciel sans autorisation écrite préalable spécifique.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+CE LOGICIEL EST FOURNI PAR LES DÉTENTEURS DE DROITS D'AUTEUR ET LES CONTRIBUTEURS "EN L'ÉTAT"
+ET TOUTE GARANTIE EXPRESSE OU IMPLICITE, Y COMPRIS, MAIS SANS S'Y LIMITER,
+GARANTIES IMPLICITES DE QUALITÉ MARCHANDE ET D'ADÉQUATION À UN USAGE PARTICULIER
+DÉNI EN AUCUN CAS, LE TITULAIRE DU COPYRIGHT OU LES CONTRIBUTEURS NE SERONT RESPONSABLES
+POUR TOUT DIRECT, INDIRECT, ACCIDENTEL, SPÉCIAL, EXEMPLAIRE OU CONSÉCUTIF
+DOMMAGES (Y COMPRIS, MAIS SANS S'Y LIMITER, L'APPROVISIONNEMENT DE MARCHANDISES DE REMPLACEMENT
+PRESTATIONS DE SERVICE; PERTE D'UTILISATION, DE DONNÉES OU DE PROFITS; OU INTERRUPTION D'AFFAIRES) CEPENDANT
+CAUSÉS ET SUR TOUTE THÉORIE DE RESPONSABILITÉ, QU'IL SOIT CONTRACTUEL, RESPONSABILITÉ STRICTE,
+OU TORT (INCLUANT LA NÉGLIGENCE OU AUTREMENT) DÉCOULANT DE QUELQUE MANIÈRE QUE CE SOIT
+DE CE LOGICIEL, MÊME SI AVISÉ DE LA POSSIBILITÉ DE TELS DOMMAGES.
